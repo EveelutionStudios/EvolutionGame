@@ -1,0 +1,5 @@
+[+] this stands for a newly added file to the repository
+ 
+[*] this stands for a modified
+
+[wip] this means that it is still a work in progress.
