@@ -2,4 +2,6 @@
  
 [*] this stands for a modified
 
-[wip] this means that it is still a work in progress.
+[-] you deleted something
+
+[!] you fixed a bug
